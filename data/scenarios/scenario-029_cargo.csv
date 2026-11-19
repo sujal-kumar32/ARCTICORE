@@ -1,0 +1,201 @@
+cargo_id,cargo_name,category,quantity,unit_weight,unit_volume,priority,critical_flag
+CARGO-0001,Thermal suits,Personal Protective Equipment,41,7.848,1.1258,Low,False
+CARGO-0002,Generator parts,Spare Parts,25,27.888,0.5884,High,False
+CARGO-0003,Fuel filters,Fuel & Lubricants,17,7.732,0.5866,Low,False
+CARGO-0004,Ice cores,Scientific Equipment,21,12.004,0.2253,Low,False
+CARGO-0005,Data relays,Communication Equipment,39,13.143,0.4256,Medium,False
+CARGO-0006,Sample containers,Research Samples,28,15.358,0.8162,Medium,True
+CARGO-0007,Antenna modules,Communication Equipment,39,13.264,0.6671,High,False
+CARGO-0008,Drinking water,Food & Water,4,7.416,0.8169,Low,False
+CARGO-0009,Field ration packs,Food & Water,47,14.794,0.6511,Low,False
+CARGO-0010,Tent components,Shelter & Heating,41,17.673,1.0116,Low,False
+CARGO-0011,Tent components,Shelter & Heating,50,2.186,0.7588,Low,False
+CARGO-0012,Protective goggles,Personal Protective Equipment,30,26.518,1.0361,High,True
+CARGO-0013,Diagnostic kits,Medical Supplies,13,26.842,0.3876,High,False
+CARGO-0014,Tool kits,Spare Parts,35,13.088,0.5656,Critical,True
+CARGO-0015,Emergency medicine,Medical Supplies,41,27.915,0.964,Critical,True
+CARGO-0016,Tent components,Shelter & Heating,1,8.582,0.1507,High,False
+CARGO-0017,Protein bars,Food & Water,33,10.096,1.1596,Low,False
+CARGO-0018,Specimen cases,Research Samples,48,10.136,0.3707,Medium,False
+CARGO-0019,Insulated boots,Personal Protective Equipment,42,10.305,0.8933,Medium,False
+CARGO-0020,Preserved vegetables,Food & Water,32,22.825,0.9361,Low,False
+CARGO-0021,Generator parts,Spare Parts,19,24.181,0.1413,Low,False
+CARGO-0022,Radio batteries,Communication Equipment,37,12.845,0.8817,High,True
+CARGO-0023,Protective goggles,Personal Protective Equipment,24,8.877,0.3391,High,False
+CARGO-0024,Antifreeze treatment,Medical Supplies,12,25.028,0.3798,Low,False
+CARGO-0025,Radio batteries,Communication Equipment,18,26.938,0.016,Medium,False
+CARGO-0026,Seismometers,Scientific Equipment,42,5.448,0.3873,Low,False
+CARGO-0027,Preservation media,Research Samples,19,25.523,1.1018,Medium,True
+CARGO-0028,Antenna modules,Communication Equipment,22,26.849,0.3483,High,False
+CARGO-0029,Diagnostic kits,Medical Supplies,20,19.464,0.733,Medium,False
+CARGO-0030,Satellite terminals,Communication Equipment,28,26.479,0.6512,Low,False
+CARGO-0031,Thermal suits,Personal Protective Equipment,34,21.982,0.1999,Critical,True
+CARGO-0032,Insulated boots,Personal Protective Equipment,3,8.909,0.778,High,False
+CARGO-0033,Drinking water,Food & Water,10,5.509,0.6698,High,True
+CARGO-0034,Cryogenic storage,Research Samples,27,22.195,1.0646,Low,False
+CARGO-0035,Preservation media,Research Samples,11,17.403,0.3867,High,True
+CARGO-0036,Drinking water,Food & Water,36,24.498,0.3797,Low,False
+CARGO-0037,Sample containers,Research Samples,43,15.465,0.217,Low,False
+CARGO-0038,Drinking water,Food & Water,34,25.057,0.4127,High,False
+CARGO-0039,Emergency blankets,Shelter & Heating,24,21.047,0.5164,High,True
+CARGO-0040,Data relays,Communication Equipment,40,25.181,0.8463,High,False
+CARGO-0041,Vehicle parts,Spare Parts,48,4.288,0.069,Medium,False
+CARGO-0042,Specimen cases,Research Samples,4,17.961,0.6048,Critical,True
+CARGO-0043,Satellite terminals,Communication Equipment,28,24.315,0.7711,High,False
+CARGO-0044,Vehicle lubricant,Fuel & Lubricants,37,23.935,0.4574,Low,False
+CARGO-0045,Thermal suits,Personal Protective Equipment,19,2.215,1.0616,Medium,False
+CARGO-0046,Insulated boots,Personal Protective Equipment,33,6.193,0.4886,Medium,False
+CARGO-0047,First-aid kits,Medical Supplies,48,9.662,0.8922,High,False
+CARGO-0048,Seismometers,Scientific Equipment,40,17.498,0.8749,Medium,False
+CARGO-0049,Seismometers,Scientific Equipment,18,4.098,0.9507,Medium,False
+CARGO-0050,Cryogenic storage,Research Samples,11,12.923,0.4686,Low,False
+CARGO-0051,Cryogenic storage,Research Samples,30,5.807,0.5918,High,False
+CARGO-0052,Protective goggles,Personal Protective Equipment,1,19.72,0.607,Medium,False
+CARGO-0053,Specimen cases,Research Samples,27,15.797,0.4708,Low,False
+CARGO-0054,Field ration packs,Food & Water,31,0.962,1.1307,Critical,True
+CARGO-0055,Field ration packs,Food & Water,35,0.501,0.3999,High,True
+CARGO-0056,Tool kits,Spare Parts,12,26.961,1.1545,Low,False
+CARGO-0057,Drinking water,Food & Water,42,20.72,0.4875,Medium,False
+CARGO-0058,Protective goggles,Personal Protective Equipment,25,9.728,0.9336,Medium,False
+CARGO-0059,Emergency blankets,Shelter & Heating,47,14.6,0.4343,Low,False
+CARGO-0060,Cryogenic storage,Research Samples,27,3.996,0.6233,Low,False
+CARGO-0061,Emergency blankets,Shelter & Heating,23,22.719,0.5846,Low,False
+CARGO-0062,Data relays,Communication Equipment,5,25.46,1.001,High,True
+CARGO-0063,Antifreeze treatment,Medical Supplies,44,2.96,0.9978,Medium,False
+CARGO-0064,Preservation media,Research Samples,14,2.822,1.0384,Low,False
+CARGO-0065,Preservation media,Research Samples,37,26.454,0.7246,Low,False
+CARGO-0066,Insulated boots,Personal Protective Equipment,3,0.64,0.2299,Medium,False
+CARGO-0067,Preservation media,Research Samples,25,21.934,0.8771,Medium,False
+CARGO-0068,Thermal suits,Personal Protective Equipment,41,6.541,0.9938,Medium,False
+CARGO-0069,Seismometers,Scientific Equipment,2,20.171,0.749,High,False
+CARGO-0070,Insulated boots,Personal Protective Equipment,23,7.574,0.2875,Critical,True
+CARGO-0071,Generator parts,Spare Parts,37,2.562,0.4744,Medium,False
+CARGO-0072,Fuel filters,Fuel & Lubricants,2,12.218,0.3641,Low,False
+CARGO-0073,Protective goggles,Personal Protective Equipment,39,27.95,0.7257,Low,False
+CARGO-0074,Diagnostic kits,Medical Supplies,12,13.818,0.2705,Low,False
+CARGO-0075,Diagnostic kits,Medical Supplies,4,23.84,1.0788,Low,False
+CARGO-0076,Radio batteries,Communication Equipment,48,26.163,0.6392,Low,False
+CARGO-0077,Field ration packs,Food & Water,25,26.279,0.6988,Medium,False
+CARGO-0078,Vehicle parts,Spare Parts,19,27.851,0.9425,Low,False
+CARGO-0079,Antifreeze treatment,Medical Supplies,20,22.68,0.1319,High,False
+CARGO-0080,Specimen cases,Research Samples,22,25.535,0.2364,High,True
+CARGO-0081,Satellite terminals,Communication Equipment,31,23.63,0.3255,High,True
+CARGO-0082,Diagnostic kits,Medical Supplies,13,14.548,0.3349,Low,False
+CARGO-0083,First-aid kits,Medical Supplies,30,9.479,0.9904,High,True
+CARGO-0084,Safety gloves,Personal Protective Equipment,39,6.164,0.2919,Low,False
+CARGO-0085,Emergency blankets,Shelter & Heating,43,15.248,0.6412,High,False
+CARGO-0086,Specimen cases,Research Samples,39,0.564,0.6518,Low,False
+CARGO-0087,Generator fuel,Fuel & Lubricants,24,5.71,0.7023,High,True
+CARGO-0088,Tool kits,Spare Parts,18,27.46,0.7431,Low,False
+CARGO-0089,Emergency medicine,Medical Supplies,18,1.457,1.0929,Medium,False
+CARGO-0090,Protective goggles,Personal Protective Equipment,10,14.687,1.1981,Low,False
+CARGO-0091,Satellite terminals,Communication Equipment,48,0.618,0.0105,Medium,False
+CARGO-0092,Diagnostic kits,Medical Supplies,11,4.222,0.1432,Medium,False
+CARGO-0093,Space heaters,Shelter & Heating,26,0.921,0.4561,Critical,True
+CARGO-0094,Space heaters,Shelter & Heating,8,7.954,0.4525,Medium,False
+CARGO-0095,Preserved vegetables,Food & Water,1,8.285,0.0383,Low,False
+CARGO-0096,Tent components,Shelter & Heating,49,7.564,0.7404,Medium,False
+CARGO-0097,Tent components,Shelter & Heating,49,2.231,0.1103,Medium,False
+CARGO-0098,Antenna modules,Communication Equipment,26,26.091,0.4901,High,False
+CARGO-0099,Emergency blankets,Shelter & Heating,44,3.387,0.9658,Low,False
+CARGO-0100,Generator parts,Spare Parts,36,1.649,0.2082,Critical,True
+CARGO-0101,Generator parts,Spare Parts,49,24.184,0.0809,Medium,False
+CARGO-0102,Fuel filters,Fuel & Lubricants,28,14.61,0.2396,Low,False
+CARGO-0103,Preservation media,Research Samples,12,24.688,0.97,Low,False
+CARGO-0104,Ice cores,Scientific Equipment,40,22.498,0.2505,Low,False
+CARGO-0105,Spectrometer parts,Scientific Equipment,26,13.842,0.5784,Low,False
+CARGO-0106,Data relays,Communication Equipment,38,14.437,0.2821,High,False
+CARGO-0107,Insulated boots,Personal Protective Equipment,25,16.724,0.5901,Low,False
+CARGO-0108,Space heaters,Shelter & Heating,26,22.136,0.8445,Critical,True
+CARGO-0109,Spectrometer parts,Scientific Equipment,38,14.063,0.8598,High,True
+CARGO-0110,Thermal suits,Personal Protective Equipment,34,14.216,0.873,Low,False
+CARGO-0111,Sample containers,Research Samples,21,1.237,0.1296,Low,False
+CARGO-0112,Seismometers,Scientific Equipment,21,6.893,0.8989,Critical,True
+CARGO-0113,Cryogenic storage,Research Samples,4,23.822,0.1053,Low,False
+CARGO-0114,Data relays,Communication Equipment,9,13.36,0.4142,Medium,False
+CARGO-0115,Vehicle lubricant,Fuel & Lubricants,39,21.237,0.3353,Medium,False
+CARGO-0116,Protein bars,Food & Water,36,22.261,1.0594,Medium,False
+CARGO-0117,Protective goggles,Personal Protective Equipment,37,13.558,0.0519,Medium,False
+CARGO-0118,Emergency medicine,Medical Supplies,29,21.681,0.8423,Low,False
+CARGO-0119,Field ration packs,Food & Water,19,1.385,0.889,High,False
+CARGO-0120,Antifreeze treatment,Medical Supplies,18,22.056,0.4655,Low,False
+CARGO-0121,Cryogenic storage,Research Samples,50,27.583,0.9134,Medium,False
+CARGO-0122,Specimen cases,Research Samples,23,9.853,0.1768,High,True
+CARGO-0123,Tool kits,Spare Parts,38,27.456,0.3802,Medium,False
+CARGO-0124,First-aid kits,Medical Supplies,49,26.268,0.9879,High,True
+CARGO-0125,Antifreeze treatment,Medical Supplies,16,13.709,0.8391,Low,False
+CARGO-0126,Preservation media,Research Samples,39,5.259,0.8544,Low,False
+CARGO-0127,Generator fuel,Fuel & Lubricants,36,17.527,0.1946,Medium,False
+CARGO-0128,Radio batteries,Communication Equipment,41,4.716,0.9996,High,False
+CARGO-0129,Insulation panels,Shelter & Heating,2,18.644,0.3473,Low,False
+CARGO-0130,Ice cores,Scientific Equipment,40,9.635,0.4208,Low,False
+CARGO-0131,Safety gloves,Personal Protective Equipment,28,3.686,0.6386,High,False
+CARGO-0132,Heating fuel,Fuel & Lubricants,40,27.393,0.265,Medium,False
+CARGO-0133,Vehicle lubricant,Fuel & Lubricants,49,27.514,0.9316,Low,False
+CARGO-0134,Fuel filters,Fuel & Lubricants,16,21.371,0.3791,High,False
+CARGO-0135,Drinking water,Food & Water,10,6.026,0.5598,Medium,False
+CARGO-0136,Fuel filters,Fuel & Lubricants,49,27.971,0.653,Low,False
+CARGO-0137,Insulated boots,Personal Protective Equipment,46,2.589,0.8701,Low,False
+CARGO-0138,Seismometers,Scientific Equipment,33,19.969,0.2668,Medium,False
+CARGO-0139,Insulation panels,Shelter & Heating,13,20.524,1.1862,Medium,False
+CARGO-0140,Satellite terminals,Communication Equipment,25,25.761,0.861,Medium,False
+CARGO-0141,Radio batteries,Communication Equipment,3,25.781,0.085,Low,False
+CARGO-0142,Preservation media,Research Samples,25,26.647,0.4025,High,False
+CARGO-0143,Antifreeze treatment,Medical Supplies,33,11.551,0.0443,Medium,False
+CARGO-0144,Safety gloves,Personal Protective Equipment,3,17.522,1.0363,Medium,False
+CARGO-0145,Emergency medicine,Medical Supplies,5,18.088,0.9429,Medium,False
+CARGO-0146,Drinking water,Food & Water,49,8.693,0.8222,Medium,False
+CARGO-0147,Emergency blankets,Shelter & Heating,38,17.141,0.1044,Low,False
+CARGO-0148,Thermal suits,Personal Protective Equipment,45,18.652,0.9146,Low,False
+CARGO-0149,Heating fuel,Fuel & Lubricants,34,22.051,0.1214,Low,False
+CARGO-0150,Insulation panels,Shelter & Heating,1,3.408,1.1987,Medium,False
+CARGO-0151,Cryogenic storage,Research Samples,33,12.491,0.6307,Medium,False
+CARGO-0152,Drinking water,Food & Water,48,6.328,0.476,High,True
+CARGO-0153,Radio batteries,Communication Equipment,34,18.429,0.8708,High,True
+CARGO-0154,Vehicle lubricant,Fuel & Lubricants,12,21.524,0.5535,Critical,True
+CARGO-0155,Generator parts,Spare Parts,42,7.084,0.8493,Medium,False
+CARGO-0156,Tool kits,Spare Parts,36,24.893,1.0712,Low,False
+CARGO-0157,Protective goggles,Personal Protective Equipment,18,1.502,0.8917,Medium,False
+CARGO-0158,Generator parts,Spare Parts,22,25.003,0.7509,High,False
+CARGO-0159,Generator parts,Spare Parts,48,14.199,0.4292,High,True
+CARGO-0160,Safety gloves,Personal Protective Equipment,38,19.619,0.5454,Low,False
+CARGO-0161,Antenna modules,Communication Equipment,12,27.652,1.0975,Low,False
+CARGO-0162,Emergency blankets,Shelter & Heating,6,25.779,0.949,Critical,True
+CARGO-0163,Vehicle lubricant,Fuel & Lubricants,5,14.522,1.033,Medium,False
+CARGO-0164,Tool kits,Spare Parts,12,21.497,0.1422,Medium,False
+CARGO-0165,Emergency blankets,Shelter & Heating,41,0.598,0.3942,Medium,False
+CARGO-0166,Emergency blankets,Shelter & Heating,43,25.642,0.7275,Low,False
+CARGO-0167,Protective goggles,Personal Protective Equipment,25,21.808,0.0847,High,False
+CARGO-0168,Preserved vegetables,Food & Water,21,9.343,0.2818,Medium,False
+CARGO-0169,Preserved vegetables,Food & Water,21,25.022,0.6208,Critical,True
+CARGO-0170,Pump assemblies,Spare Parts,27,6.081,1.1269,Low,False
+CARGO-0171,Safety gloves,Personal Protective Equipment,11,10.447,0.9028,Medium,False
+CARGO-0172,Protein bars,Food & Water,13,8.903,0.4311,Medium,True
+CARGO-0173,Generator fuel,Fuel & Lubricants,42,11.4,0.9192,Medium,False
+CARGO-0174,Spectrometer parts,Scientific Equipment,11,11.869,0.9389,Medium,False
+CARGO-0175,Sample containers,Research Samples,30,17.453,0.1026,Medium,False
+CARGO-0176,Pump assemblies,Spare Parts,1,17.487,0.4191,Critical,True
+CARGO-0177,Pump assemblies,Spare Parts,12,8.98,0.3961,Medium,False
+CARGO-0178,Field ration packs,Food & Water,7,3.478,0.0331,Low,False
+CARGO-0179,Protective goggles,Personal Protective Equipment,1,13.936,0.1689,High,False
+CARGO-0180,Generator fuel,Fuel & Lubricants,37,9.13,0.7072,Medium,False
+CARGO-0181,Field ration packs,Food & Water,6,15.537,1.1149,Medium,False
+CARGO-0182,Insulated boots,Personal Protective Equipment,44,3.953,0.7513,Critical,True
+CARGO-0183,Space heaters,Shelter & Heating,46,10.244,0.1671,Low,False
+CARGO-0184,Antifreeze treatment,Medical Supplies,25,15.994,0.8061,Critical,True
+CARGO-0185,Preservation media,Research Samples,21,6.325,0.592,High,False
+CARGO-0186,Protective goggles,Personal Protective Equipment,50,5.342,0.796,Low,False
+CARGO-0187,Cryogenic storage,Research Samples,37,4.392,0.8247,Low,False
+CARGO-0188,Field ration packs,Food & Water,50,16.053,0.7172,Low,False
+CARGO-0189,Diagnostic kits,Medical Supplies,30,3.044,0.7242,Medium,False
+CARGO-0190,Antifreeze treatment,Medical Supplies,13,4.288,0.3823,Medium,False
+CARGO-0191,Data relays,Communication Equipment,36,27.763,0.763,Low,False
+CARGO-0192,Protective goggles,Personal Protective Equipment,6,5.211,0.9257,Low,False
+CARGO-0193,First-aid kits,Medical Supplies,17,23.673,0.2631,Low,False
+CARGO-0194,Antifreeze treatment,Medical Supplies,33,6.585,0.7499,High,False
+CARGO-0195,First-aid kits,Medical Supplies,37,12.737,0.9598,Low,False
+CARGO-0196,Spectrometer parts,Scientific Equipment,38,24.71,0.2849,Medium,False
+CARGO-0197,First-aid kits,Medical Supplies,44,21.402,0.7744,Low,False
+CARGO-0198,Specimen cases,Research Samples,8,12.57,0.0458,Medium,False
+CARGO-0199,Satellite terminals,Communication Equipment,38,19.23,0.7686,Low,False
+CARGO-0200,Insulation panels,Shelter & Heating,2,4.295,0.7673,Medium,True
